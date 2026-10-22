@@ -83,6 +83,15 @@ Concluí meu ensino médio juntamente com o curso técnico em Desenvolvimento de
 
   <img 
     align="left"
+    alt="Vercel"
+    title="Vercel"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+  />
+
+  <img 
+    align="left"
     alt="Jira"
     title="Jira"
     width="30px"

@@ -87,7 +87,7 @@ Concluí meu ensino médio juntamente com o curso técnico em Desenvolvimento de
     title="Vercel"
     width="30px"
     style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
   />
 
   <img 
